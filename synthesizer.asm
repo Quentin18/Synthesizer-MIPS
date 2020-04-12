@@ -49,10 +49,9 @@ tantQueJS:
 	addi $t3, $t3, 4		# $t3 += 4 (adr suivante)
 	lw $t4, 0($t3)			# $t4 <- tabNotes[suiv]
 	j tantQueJS
-
 finTantQueJS:				# $a0 contient la note
 	ori $v0, $0, 31
-	ori $a1, $0, 100		# $a1 <- 100 ms (durée)
+	ori $a1, $0, 200		# $a1 <- 200 ms (durée)
 	ori $a3, $0, 127		# $a3 <- 127 (volume)
 	syscall				# Jouer le son
 	j loop
