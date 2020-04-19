@@ -1,0 +1,40 @@
+caractere - commande - code ascii
+a	C3	97
+é	C#3	233
+z	D3	122
+"	D#3	34
+e	E3	101
+r	F3	114
+(	F#3	40
+t	G3	116
+-	G#3	45
+y	A3	121
+è	A#3	232
+u	B3	117
+i	C4	105
+ç	C#4	231
+o	D4	111
+à	D#4	224
+p	E4	112
+w	F4	119
+s	F#4	115
+x	G4	120
+d	G#4	100
+c	A4	99
+f	A#4	102
+v	B4	118
+b	C5	98
+h	C#5	104
+n	D5	110
+j	D#5	106
+,	E5	44
+;	F5	59
+l	F#5	108
+:	G5	58
+m	G#5	109
+!	A5	33
+ù	A#5	249
+
+&	changement instrument	38
+SPACE	exit			32
+
