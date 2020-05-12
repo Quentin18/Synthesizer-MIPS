@@ -1,4 +1,6 @@
 # Synthétiseur MIPS
+# Quentin DESCHAMPS, Majda EL ATIA
+
 	.data
 mesBienvenue:
 	.asciiz "Bienvenue sur le synthetiseur MIPS !\n"
@@ -12,7 +14,7 @@ tabNotes:
 	98, 104, 110, 106, 44, 59, 108, 58, 109, 33, 249, -1
 
 
-	.text	
+	.text
 main:
 	la $a0, mesBienvenue		# $a0 <- adr de mesBienvenue
 	ori $v0, $0, 4
