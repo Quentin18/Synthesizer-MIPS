@@ -35,6 +35,9 @@ m	G#5	109
 !	A5	33
 ù	A#5	249
 
-&	changement instrument	38
+=	instru suivant		61
+&	change instru num	38
+<	diminue duree sons	60
+>	augmente duree sons	62
 SPACE	exit			32
 
